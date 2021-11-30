@@ -1,5 +1,5 @@
 # Memorama
-Juego de encontrar las parejas de cartas creado con JavaFX.
+Juego de encontrar las parejas de cartas creado con JavaFX. Un total de 12 cartas con 6 parejas de objetos, trata de vencer en 5 intentos.
 
 Los archivos del juego junto con el código se encuentran en la carpeta Memorama.
 
